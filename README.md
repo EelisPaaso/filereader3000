@@ -1,0 +1,1 @@
+make sure to install the required tools such as the c++ toolset from visual studio, building happens by i believe opening the solution file in visual studio or the source file and building it from there
